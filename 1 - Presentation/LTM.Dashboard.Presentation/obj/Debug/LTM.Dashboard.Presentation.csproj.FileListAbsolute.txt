@@ -1,0 +1,6 @@
+C:\Lixo\Curso\LTM.Dashboard\1 - Presentation\LTM.Dashboard.Presentation\bin\LTM.Dashboard.Presentation.dll.config
+C:\Lixo\Curso\LTM.Dashboard\1 - Presentation\LTM.Dashboard.Presentation\bin\LTM.Dashboard.Presentation.dll
+C:\Lixo\Curso\LTM.Dashboard\1 - Presentation\LTM.Dashboard.Presentation\bin\LTM.Dashboard.Presentation.pdb
+C:\Lixo\Curso\LTM.Dashboard\1 - Presentation\LTM.Dashboard.Presentation\obj\Debug\LTM.Dashboard.Presentation.csprojResolveAssemblyReference.cache
+C:\Lixo\Curso\LTM.Dashboard\1 - Presentation\LTM.Dashboard.Presentation\obj\Debug\LTM.Dashboard.Presentation.dll
+C:\Lixo\Curso\LTM.Dashboard\1 - Presentation\LTM.Dashboard.Presentation\obj\Debug\LTM.Dashboard.Presentation.pdb

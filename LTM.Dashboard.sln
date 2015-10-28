@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{705262C4-F362-4302-B8D8-51043A1D41B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTM.Dashboard.Presentation", "1 - Presentation\LTM.Dashboard.Presentation\LTM.Dashboard.Presentation.csproj", "{03B6707C-376B-4E22-ACCA-DAE2EE2F057B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B6707C-376B-4E22-ACCA-DAE2EE2F057B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B6707C-376B-4E22-ACCA-DAE2EE2F057B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B6707C-376B-4E22-ACCA-DAE2EE2F057B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B6707C-376B-4E22-ACCA-DAE2EE2F057B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03B6707C-376B-4E22-ACCA-DAE2EE2F057B} = {705262C4-F362-4302-B8D8-51043A1D41B8}
+	EndGlobalSection
+EndGlobal
