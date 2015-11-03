@@ -1,6 +1,2 @@
 ﻿
-var ModelApplication =
-    angular.module('AppDashboard',
-        [
-            'ngRoute'
-        ]);
+var ModelApplication = angular.module('AppDashboard', ['ngRoute']);
